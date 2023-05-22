@@ -9,5 +9,6 @@ function greeting() {
 }
 
 function joke() {
+  alert("What do you say when you haven't eaten sushi in a long time? - HISUSHIBURI!")
   // write the code for your joke here.
 }
