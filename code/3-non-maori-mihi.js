@@ -17,7 +17,6 @@ function nonMaoriMihi() {
   let homeTown = prompt()
 
   alert('Your mihi:')
-  // more outputs here
   alert('Tēnā kotou,')
   alert('Kei te mihi au ki a ' + mountain + ',')
   alert('Kei te mihi au ki a ' + river + ',')
