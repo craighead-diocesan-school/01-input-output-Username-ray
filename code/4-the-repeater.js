@@ -3,8 +3,7 @@
 // ####################################
 
 function theRepeater() {
-    alert('Say something')
-    let something = prompt()
+    let something = prompt('Say something')
 
     alert('You said: ' + something)
 }

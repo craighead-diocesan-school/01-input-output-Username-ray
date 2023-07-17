@@ -18,7 +18,7 @@ function questionnaire() {
   let breakfast = prompt('What did you have for breakfast?')
   let colour = prompt('What is your favourite colour?')
   let age = prompt('How old are you?')
-  age=Number(age)
+  age = Number(age)
   age = age+1
   alert("you are" +age+ "years old")
 }
