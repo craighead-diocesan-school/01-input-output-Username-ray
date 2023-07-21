@@ -6,11 +6,13 @@ function nonMaoriMihi() {
   alert('Non-Māori Mihi')
   alert('This program will help you build a basic mihi.')
   alert("First, you'll be asked a series of questions, then your mihi will be ready.")
+  // Show some sentences as greedings.
 
   let name = prompt('What is your name?')
   let mountain = prompt('What is your mountain?')
   let river = prompt('What is your river/ocean/lake/bay-harbour?')
   let homeTown = prompt('Where is your hometown?')
+  // Ask to define some informations.
 
   alert('Your mihi:')
   alert('Tēnā kotou,')
@@ -23,4 +25,5 @@ function nonMaoriMihi() {
   alert('Tēnā koutou,')
   alert('Tēnā koutou,')
   alert('Tēnā koutou, katoa.')
+  // Show some setences that using the informations.
 }
